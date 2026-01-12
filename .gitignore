@@ -1,15 +1,11 @@
-# Ignore executables and installers
-*.exe
-*.dll
-*.log
-*.tmp
-*.bak
-
-# Ignore program files
-Program Files*/
-Program Files (x86)*/
-
-# Ignore IDE/build folders
-.vs/
+# Build folders
 bin/
 obj/
+
+# User-specific files
+*.user
+*.suo
+*.vs/
+
+# Packages
+packages/
