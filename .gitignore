@@ -1,0 +1,15 @@
+# Ignore executables and installers
+*.exe
+*.dll
+*.log
+*.tmp
+*.bak
+
+# Ignore program files
+Program Files*/
+Program Files (x86)*/
+
+# Ignore IDE/build folders
+.vs/
+bin/
+obj/
